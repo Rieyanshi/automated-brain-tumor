@@ -8,7 +8,7 @@ This repository contains the source code for the the brain tumor detection proje
 
 ## About
 
-Model to segment brain tumorsfrom 2D Magnetic Resonance brain Images by a convolutional neural network (CNN) algorithm..
+Model to segment brain tumors from 2D Magnetic Resonance brain Images by a convolutional neural network (CNN) algorithm.
 
 ## Technologies Used
 
