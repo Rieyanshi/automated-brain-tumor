@@ -1,6 +1,6 @@
 # Automated Brain Tumor Segmentation using MRI images
 
-This repository contains the source code for the the brain tumor detection project and the dataset used (BRATS dataset from Kagle : https://www.kaggle.com/datasets/awsaf49/brats2020-training-data).
+This repository contains the source code for the the brain tumor detection project and the dataset used (BRATS dataset from Kagle : https://www.kaggle.com/datasets/awsaf49/brats2020-training-data ).
 
 ## Contents
 
